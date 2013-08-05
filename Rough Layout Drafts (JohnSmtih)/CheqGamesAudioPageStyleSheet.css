@@ -1,0 +1,126 @@
+* {
+  background-color: #000000;
+}
+
+#navbarcontainer {
+  position: absolute;
+  height: 5em;
+  width: 84em;
+  border: 2px solid #56565B;
+}
+
+#cheqgameslogo {
+  position: absolute;
+  height: 4.2em;
+  width: 10em;
+  margin-top: 0.3em;
+  margin-left: 1em;
+}
+
+#navbarheader {
+  position: absolute;
+  font-size: 2em;
+  color: #00CCFF;
+  margin-top: 0.7em;
+  margin-left: 9.5em;
+}
+
+#cheqgameslogo:hover {
+  border: 2px solid #56565B;
+}
+
+#programlogo {
+  position: absolute;
+  height: 4.6em;
+  width: 5em;
+  margin-top: 0.09em;
+  margin-left: 55em;
+}
+
+#programlogo:hover {
+  border: 2px solid #56565B;
+}
+
+#designlogo {
+  position: absolute;
+  height: 4.5em;
+  width: 5em;
+  margin-top: 0.1em;
+  margin-left: 62em;
+}
+
+#designlogo:hover {
+  border: 2px solid #56565B;
+}
+
+#storylogo {
+  position: absolute;
+  height: 4.5em;
+  width: 5em;
+  margin-top: 0.1em;
+  margin-left: 69em;
+}
+
+#storylogo:hover {
+  border: 2px solid #56565B;
+}
+
+#audiologo {
+  position: absolute;
+  height: 4.5em;
+  width: 5em;
+  margin-top: 0.1em;
+  margin-left: 76em;
+}
+
+#audiologo:hover {
+  border: 2px solid #56565B;
+}
+
+#contentoutline {
+  position: absolute;
+  height: 30em;
+  width: 42em;
+  margin-top: 10em;
+  margin-left: 19em;
+  border: 2px solid #56565B;
+}
+
+#firstcontentheader {
+  position: absolute;
+  margin-left: 1em;
+  margin-top: 1em;
+  color: #00CCFF;
+  font-size: 2em;
+  font-family: "Century Gothic";
+}
+
+#firstcontentbody {
+  position: absolute;
+  margin-top: 6em;
+  color: #00CCFF;
+  font-size: 1em;
+  font-family: "Century Gothic";
+  padding: 1em;
+}
+
+#secondcontentheader {
+  position: absolute;
+  margin-top: 8em;
+  color: #00CCFF;
+  font-size: 2em;
+  font-family: "Century Gothic";
+  margin-left: 1em;
+}
+
+#secondcontentbody {
+  position: absolute;
+  margin-top: 20em;
+  padding: 1em;
+  color: #00CCFF;
+  font-family: "Century Gothic";
+  font-size: 1em;
+}
+
+
+
